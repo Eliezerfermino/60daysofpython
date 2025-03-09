@@ -1,6 +1,6 @@
 ## 60 dias de programacao em Python
 
-- [ ] Dia 1
+- [x] Dia 1 - Ola mundo em python
 - [ ] Dia 2
 - 
 
