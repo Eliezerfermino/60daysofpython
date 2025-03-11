@@ -2,7 +2,7 @@
 
 - [x] Dia 1 - Ola mundo em python
 - [x] Dia 2 - Soma de dois numeros de duas formas diferente
-- [ ] Dia 3 -  
+- [x] Dia 3 - Condicional que verificia se o numero e impar ou par 
 - [ ] Dia 4 -  
 - [ ] Dia 5 -  
 - [ ] Dia 6 -  
