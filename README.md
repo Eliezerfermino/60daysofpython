@@ -3,7 +3,7 @@
 - [x] Dia 1 - Ola mundo em python
 - [x] Dia 2 - Soma de dois numeros de duas formas diferente
 - [x] Dia 3 - Condicional que verificia se o numero e impar ou par 
-- [ ] Dia 4 -  
+- [x] Dia 4 - Laço de repetição com numeros de 0 a 10 usando FOR E WHILE 
 - [ ] Dia 5 -  
 - [ ] Dia 6 -  
 - [ ] Dia 7 -  
