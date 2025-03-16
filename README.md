@@ -5,7 +5,7 @@
 - [x] Dia 3 - Condicional que verificia se o numero e impar ou par 
 - [x] Dia 4 - Laço de repetição com numeros de 0 a 10 usando FOR E WHILE 
 - [x] Dia 5 - Funcao que imprime o quadrado de um numero
-- [x] Dia 6 - criando uma lista de frutas  
+- [x] Dia 6 - Criando uma lista de frutas em python 
 - [ ] Dia 7 -  
 - [ ] Dia 8 -  
 - [ ] Dia 9 -  
