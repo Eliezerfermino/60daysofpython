@@ -6,8 +6,8 @@
 - [x] Dia 4 - Laço de repetição com numeros de 0 a 10 usando FOR E WHILE 
 - [x] Dia 5 - Funcao que imprime o quadrado de um numero
 - [x] Dia 6 - Criando uma lista de frutas em python 
-- [ ] Dia 7 -  
-- [ ] Dia 8 -  
+- [x] Dia 7 - Criando dicionarios dinamicos e estaticos
+- [x] Dia 8 -  
 - [ ] Dia 9 -  
 - [ ] Dia 10 -  
 
