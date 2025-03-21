@@ -9,5 +9,5 @@
 - [x] Dia 7 - Criando dicionarios dinamicos e estaticos
 - [x] Dia 8 - Criado um chegador de idade 
 - [x] Dia 9 - Criando contador personalizado
-- [ ] Dia 10 -  
+- [x] Dia 10 - Gerador de senhas particular
 
