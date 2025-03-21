@@ -8,6 +8,6 @@
 - [x] Dia 6 - Criando uma lista de frutas em python 
 - [x] Dia 7 - Criando dicionarios dinamicos e estaticos
 - [x] Dia 8 - Criado um chegador de idade 
-- [ ] Dia 9 -  
+- [x] Dia 9 - Criando contador personalizado
 - [ ] Dia 10 -  
 
