@@ -10,4 +10,4 @@
 - [x] Dia 8 - Criado um chegador de idade 
 - [x] Dia 9 - Criando contador personalizado
 - [x] Dia 10 - Gerador de senhas particular
-
+- [x] Dia 11 - Usamos a funcao sorted para ordenar uma lista de numeros
